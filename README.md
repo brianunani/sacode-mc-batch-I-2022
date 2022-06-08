@@ -11,3 +11,5 @@
     Day09
     Day10
 
+# Assignments
+    Day00
