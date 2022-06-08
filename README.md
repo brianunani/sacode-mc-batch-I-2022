@@ -1,5 +1,5 @@
 # DAYS
-    Day00
+    Day00 ✅
     Day01
     Day02
     Day03
@@ -10,3 +10,4 @@
     Day08
     Day09
     Day10
+
