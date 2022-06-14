@@ -12,4 +12,5 @@
     Day10
 
 # Assignments
-    Day00
+    Day00 ✅
+    https://www.youtube.com/watch?v=aKgy6Ug5UVs
